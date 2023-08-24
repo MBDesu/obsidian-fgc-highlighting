@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-fgc-highlighting",
+	"name": "Fighting Game Combo Highlighting",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Adds syntax highlighting to code blocks for fighting game combos.",
+	"author": "MBDesu",
+	"authorUrl": "https://github.com/MBDesu",
+	"fundingUrl": "https://ko-fi.com/mbdesu",
+	"isDesktopOnly": false
+}

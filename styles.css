@@ -1,0 +1,11 @@
+.wide {
+  width: 100%;
+}
+
+button.caution-button {
+  background-color: var(--text-error);
+}
+
+button.add-button {
+  background-color: var(--interactive-accent);
+}
